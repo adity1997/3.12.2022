@@ -1,0 +1,11 @@
+Beg. Level project
+1) Churn Prediction
+2) Sales Forecasting
+3) Sentiment Analysis twitter API(NLP)	
+4)
+
+Inter. Level Project
+2) 
+
+Expert Level Project
+3)
